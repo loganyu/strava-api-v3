@@ -10,3 +10,4 @@ module Strava
     end
   end
 end
+
